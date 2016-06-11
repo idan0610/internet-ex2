@@ -1,0 +1,23 @@
+body {
+	background-color: rgb(153,204,204);
+	font-family: arial;
+	color: rgb(100,100,255);
+}
+
+input[type=button] {
+	width: 110px;
+	margin: 0 10px;
+	background-color: rgb(79,129,189);
+	color: rgb(207,227,232);
+	border-style: solid;
+	border-color: rgb(207,227,232);
+	border-width: 3px;
+	border-radius: 3px;
+	box-shadow: 1px 1px 3px 1px #999;
+}
+
+input[type=number] {
+	width: 100px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
